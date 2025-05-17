@@ -1,2 +1,2 @@
 # Netflix
-Netflix(Movie and TV Shows) Data_ Project
+Netflix(Movie and TV Shows) SQL_Project
